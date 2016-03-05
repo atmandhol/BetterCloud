@@ -1,0 +1,1 @@
+E:\BetterHack\Kafka\bin\windows\zookeeper-server-start.bat E:\BetterHack\Kafka\config\zookeeper.properties

@@ -1,0 +1,1 @@
+E:\BetterHack\Kafka\bin\windows\kafka-server-start.bat E:\BetterHack\Kafka\config\server.properties
