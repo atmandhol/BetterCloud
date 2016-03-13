@@ -1,0 +1,7 @@
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\KafkaConsumer.exe.config
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\KafkaConsumer.exe
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\KafkaConsumer.pdb
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\kafka-net.dll
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\obj\Debug\KafkaConsumer.csprojResolveAssemblyReference.cache
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\obj\Debug\KafkaConsumer.exe
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\obj\Debug\KafkaConsumer.pdb

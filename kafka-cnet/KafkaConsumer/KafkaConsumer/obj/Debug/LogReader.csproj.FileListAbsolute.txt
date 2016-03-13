@@ -1,0 +1,12 @@
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\KafkaConsumer.exe.config
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\KafkaConsumer.exe
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\KafkaConsumer.pdb
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\kafka-net.dll
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\MongoDB.Bson.dll
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\MongoDB.Driver.Core.dll
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\MongoDB.Driver.dll
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\MongoDB.Bson.xml
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\bin\Debug\MongoDB.Driver.xml
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\obj\Debug\LogReader.csprojResolveAssemblyReference.cache
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\obj\Debug\KafkaConsumer.exe
+E:\BetterHack\kafka-cnet\KafkaConsumer\KafkaConsumer\obj\Debug\KafkaConsumer.pdb
