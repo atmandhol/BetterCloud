@@ -2,16 +2,6 @@ from kafka import KafkaConsumer
 from kafka import TopicPartition
 from threading import Thread
 
-#from datetime import datetime
-#from elasticsearch import Elasticsearch
-#es = Elasticsearch()
-
-#for msg in consumer:
-#  i = i + 1
-#  print(msg)
-#  es.index(index="test-index", doc_type='logs_', id=i, body=msg)
-
-
 def func(topic, partition):
   i=0
   consumer = KafkaConsumer(bootstrap_servers='104.154.53.184:6667', group_id='grp-5327', auto_offset_reset='earliest', 
